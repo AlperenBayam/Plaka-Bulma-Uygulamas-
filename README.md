@@ -1,3 +1,4 @@
+TR:
 Plaka Bulma Uygulaması Uygulamayı Çalıştırdıktan Sonra Seçiminize Göre Plaka Üzerinden İl Adı Veya İl Adı Üzerinden Plaka Öğrenebilirsiniz Eğer Uygulama İnput Girdiğinizde Sonuç Vermiyorsa Uygulamayı Bir Dosya İçine Atın Ve Üstteki Konum Biglisinin Olduğu Yere cmd Yazdıktan Sonra Şunu Yazın "py uygulama.py" ve Uygulama Çalışacaktır 
 Not : Listeler Ve Karar Yapıları İle Yazılmıştır Dictionary İlede Yazdım Fakat Bu Daha Güzel Gözüküyor
 
